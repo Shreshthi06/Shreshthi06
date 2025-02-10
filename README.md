@@ -24,7 +24,7 @@
 
 <h3 align="left">💌 Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com" target="blank">
+    <a href="https://www.linkedin.com/in/shreshthi-singh-rajput-6a18752a5/" target="blank">
         <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://instagram.com" target="blank">
